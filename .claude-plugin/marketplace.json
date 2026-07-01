@@ -3,16 +3,10 @@
   "owner": {
     "name": "Xavier Capaldi"
   },
-  "metadata": {
-    "description": "A curated set of public plugins.",
-    "version": "0.1.0"
-  },
   "plugins": [
     {
-      "name": "recipemd-plugin",
-      "source": "./plugins/recipemd-plugin",
-      "description": "Adds /extract and /validate skills to aid in scraping and writing recipes in RecipeMD format.",
-      "strict": true
+      "name": "xcapaldi-skills",
+      "source": "./skills"
     }
   ]
 }

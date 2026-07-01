@@ -1,0 +1,7 @@
+{
+  "name": "xcapaldi-skills",
+  "skills": [
+    "./skills/conventional-commits",
+    "./skills/write-pull-request-description"
+  ]
+}
